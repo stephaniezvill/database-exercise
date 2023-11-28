@@ -31,7 +31,3 @@ values ('Bob Marley and the Wailers','Legend: The Best of Bob Marley & The Waile
        ('Whitney Houston / Various Artist', 'The Bodyguard', '1992', '45', 'R&B, soul, pop, soundtrack'),
        ('AC/DC', 'Back in Black', '1980', '50', 'Hard rock'),
        ('Micheal Jackson', 'Thriller', '1982', '70', 'Pop, post-disco, funk, rock');
-
-
-
-
