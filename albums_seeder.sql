@@ -1,4 +1,5 @@
 use hippo_steph;
+TRUNCATE TABLE albums;
 
 insert into albums (artist,name,release_date,sales,genre)
 values ('Bob Marley and the Wailers','Legend: The Best of Bob Marley & The Wailers','1984', '30', 'Reggae'),

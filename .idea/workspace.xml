@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f62300-b62a-45ea-9d95-d638bbf35371" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/select_exercises.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/albums_seeder.sql" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/albums_seeder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_exercises.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update_exercises.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/albums_seeder.sql" beforeDir="false" afterPath="$PROJECT_DIR$/albums_seeder.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/select_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/select_exercises.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701104255558</updated>
-      <workItem from="1701104257106" duration="13997000" />
+      <workItem from="1701104257106" duration="20368000" />
     </task>
     <servers />
   </component>
