@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f62300-b62a-45ea-9d95-d638bbf35371" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/delete_exercises.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/update_exercises.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/albums_seeder.sql" beforeDir="false" afterPath="$PROJECT_DIR$/albums_seeder.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/select_exercises.sql" beforeDir="false" afterPath="$PROJECT_DIR$/select_exercises.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/where_exercises.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +45,14 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+      "MariaDB"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701104255558</updated>
-      <workItem from="1701104257106" duration="20368000" />
+      <workItem from="1701104257106" duration="25848000" />
     </task>
     <servers />
   </component>
