@@ -22,4 +22,6 @@ select * from employees where first_name in ('Irene','Vidya', 'Maya') order by f
 
 select * from employees where first_name in ('Irene','Vidya', 'Maya') order by last_name, first_name;
 
-select * from employees where last_name like 'E%' or last_name like '%E';
+select * from employees where last_name 'E%' or last_name like '%E' order by emp_no desc;
+
+select * from employees where last_name like 'E%' and last_name like '%E' order by emp_no desc;
