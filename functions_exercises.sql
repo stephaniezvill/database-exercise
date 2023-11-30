@@ -33,11 +33,9 @@ select * from employees where year(birth_date) between 1900 and 1999 and month(b
 
 select * from employees where month(birth_date) = 12 and day(birth_date) = 25 and year(hire_date) between 1990 and 1999;
 
-select * from employees where month(birth_date) = 12 and day(birth_date) = 25 and year(hire_date) between 1990 and 1999 order by hire_date desc;
-
-select datediff(hire_date,curdate()) / 365, hire_date from employees where month(birth_date) = 12 and day(birth_date) = 25 and year(hire_date) between 1990 and 1999 order by hire_date desc;
+select * from employees where month(birth_date) = 12 and day(birth_date) = 25 and year(hire_date) between 1990 and 1999 order by birth_date,hire_date desc;
 
 SELECT *, DATEDIFF(NOW(), hire_date) AS days_worked
 FROM employees
 WHERE MONTH(birth_date) = 12 AND DAY(birth_date) = 25 AND YEAR(hire_date) BETWEEN 1990 AND 1999
-ORDER BY hire_date DESC;
+ORDER BY hire_date;
